@@ -1,4 +1,4 @@
-# Project Name
+# Housing Price Predictor
 > Outline a brief description of your project.
 
 This project is used to build a regularised linear regression model that would provide the factors that affect the price of a property in Australia market so that the business can predict actual value of the prospective properties and decide whether to invest in them or not.
