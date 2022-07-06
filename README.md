@@ -35,8 +35,8 @@ The company has collected a data set from the sale of houses in Australia.
 
 ## Conclusions
 - Ridge Regression provides a better accuracy as per our analysis. 
-- The top 5 predictor variables in Ridge are 'GrLivArea', 'OverallQual_Very Excellent', '2ndFlrSF', 'RoofMatl_WdShngl' and '1stFlrSF'.
-- The optimal value of lasso is 0.001 and ridge is 2.
+- The top 5 predictor variables in Ridge are 'GrLivArea', '2ndFlrSF', 'OverallQual_Very Excellent', 'OverallQual_Excellent' and 'Neighborhood_NoRidge'.
+- The optimal value of lasso is 0.0001 and ridge is 7.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
