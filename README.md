@@ -1,5 +1,4 @@
 # Housing Price Predictor
-> Outline a brief description of your project.
 
 This project is used to build a regularised linear regression model that would provide the factors that affect the price of a property in Australia market so that the business can predict actual value of the prospective properties and decide whether to invest in them or not.
 
@@ -56,8 +55,8 @@ Give credit here.
 - This project was inspired by...
 - References if any...
 - This project was based on 
-https://jovian.ai/vijay-grg/advance-regression
-https://github.com/sidf3ar/House-Price-Prediction/blob/main/Advanced%20Regression%20-%20House%20Price%20Prediction.ipynb
+1. https://jovian.ai/vijay-grg/advance-regression
+2. https://github.com/sidf3ar/House-Price-Prediction/blob/main/Advanced%20Regression%20-%20House%20Price%20Prediction.ipynb
 
 
 ## Contact
